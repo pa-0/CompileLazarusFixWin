@@ -1,4 +1,4 @@
-
+# Run Powershell .\buildit.ps1
 # Set the Lazarus FPC path in the environment variable for the script
 $env:PATH = "C:\lazarus\fpc\3.2.2\bin\x86_64-win64;" + $env:PATH
 
